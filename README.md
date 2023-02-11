@@ -5,6 +5,9 @@ Learning gpt3 functions
 
 # Fine-Tune модели
 
-Можно использовать [датасеты](https://github.com/kodinkod/text_datasets)
+Дообучить модель можно c помощью - этих скриптов. Для тестирования предлагается использовать [датасеты](https://github.com/kodinkod/text_datasets) с стихотворениями
 
 
+# литература 
+
+[Главная старинца модели](https://github.com/ai-forever/ru-gpts)
